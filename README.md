@@ -19,6 +19,7 @@ $ git clone https://github.com/cferestrada/payment-tracker.git
 Install the dependencies and start the server.
 ```sh
 $ cd payment-tracker
+$ git checkout 1.0
 $ npm install 
 $ npm run dev 
 ```
@@ -27,6 +28,8 @@ or
 $ npm run build 
 $ npm start 
 ```
+
+Try it on http://localhost:9081/PaymentTracker !!
 
 ### Todos
 
