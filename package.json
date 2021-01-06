@@ -5,7 +5,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.10",
     "array.from": "^1.0.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-emotion": "^10.0.9",
     "body-parser": "^1.18.3",
     "core-js": "^3.0.1",
