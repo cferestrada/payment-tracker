@@ -47,7 +47,7 @@
     "redux-thunk": "^2.3.0",
     "rewire": "^4.0.1",
     "serve": "^11.1.0",
-    "swiper": "^4.5.0",
+    "swiper": "^6.5.1",
     "what-input": "^5.2.1"
   },
   "scripts": {
